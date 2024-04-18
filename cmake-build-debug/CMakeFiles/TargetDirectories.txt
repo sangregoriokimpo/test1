@@ -1,0 +1,3 @@
+/Users/gregoryjabido/Documents/Projects/test1/cmake-build-debug/CMakeFiles/test1.dir
+/Users/gregoryjabido/Documents/Projects/test1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/gregoryjabido/Documents/Projects/test1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
